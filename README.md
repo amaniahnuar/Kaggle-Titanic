@@ -2,6 +2,7 @@
 
 This is my solution to the Kaggle competition **"Titanic: Machine Learning from Disaster"**, implemented in an IPython Notebook. The project demonstrates a practical approach to analyzing data, building predictive models, and submitting results to Kaggle. It's perfect for beginners exploring data science or Python-based machine learning competitions.  
 
+REFERENCE USED:
 [**View Static Version**](http://nbviewer.ipython.org/urls/raw.github.com/agconti/kaggle-titanic/master/Titanic.ipynb)  
 
 ---
